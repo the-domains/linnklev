@@ -1,0 +1,28 @@
+name: LinnKlev
+favicon: null
+layout_spectrum: 0.8586964425630867
+typography_spectrum: 0.9805127817671746
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9025342012755573
+  lightness: 0.14662053156644106
+  saturation: 0.19123005704022944
+  rhythmicContrast: 0.2614006067160517
+purpose: []
